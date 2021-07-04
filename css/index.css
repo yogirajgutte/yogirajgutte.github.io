@@ -101,7 +101,6 @@ span{
 
 .nav-link:hover .my-navbar-icons{
   color: #dbdbdb;
-  border-left: 2px solid #e50914;
   transform: scale(1.2);
 }
 
