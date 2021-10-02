@@ -813,6 +813,18 @@ span{
   font-size: 2rem;
 }
 
+.project-name-container-6 {
+  background-image: url('/img/NetflixClone.jpg');
+  background-blend-mode: darken;
+  background-position: top;
+  background-size: contain;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  height: 9rem;
+  margin-bottom: .5rem;
+  font-size: 2rem;
+}
+
 .project-name {
   margin: 1rem;
   font-family: 'Merriweather', serif;
